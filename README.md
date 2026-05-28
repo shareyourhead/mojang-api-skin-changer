@@ -1,6 +1,6 @@
 # Overview
 
-This program allows users to change their minecraft skin via command-line interface. It locates account tokens sends a payload to the Mojang API.
+This program allows users to change their minecraft skin via command-line interface. It locates account tokens and sends a payload to the Mojang API.
 
 [Software Demo Video](https://youtu.be/i0mMj63wjVo)
 
